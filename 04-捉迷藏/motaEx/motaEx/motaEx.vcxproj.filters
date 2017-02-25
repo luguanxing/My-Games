@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\motaEx.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\motaEx.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_01.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_02.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_03.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_04.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_05.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_06.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_07.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_08.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_09.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_10.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_11.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_12.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_13.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_14.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_15.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Solider_16.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_01.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_02.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_03.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_04.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_05.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_06.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_07.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_08.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_09.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_10.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_11.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_12.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_13.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_14.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_15.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\images\Knight_16.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="motaEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="motaExDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solider.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Knight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="motaEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="motaExDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solider.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Knight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="motaEx.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
