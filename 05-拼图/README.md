@@ -12,7 +12,7 @@
 <br><br><br>
 
 ## 效果
-![image](https://github.com/luguanxing/My-Games/blob/master/05-%E6%8B%BC%E5%9B%BE/pictures/2.gif?raw=true)<br>
+![image](https://github.com/luguanxing/My-Games/blob/master/05-%E6%8B%BC%E5%9B%BE/pictures/3.gif?raw=true)<br>
 <br><br><br>
 
 ## 总结
